@@ -1,7 +1,9 @@
 # ZapperKeeper
 Hardware Blockchain Wallet Concept
+Blockchain Center "Hack the Holidays" hackathon entry! 
 
-This repos houses the suggested hardware as well as photos taken throught the project
+
+This repo houses the suggested hardware as well as photos taken through the project
 
 The concept:
 Create blinged out hardware wallet that lights up when a physical coin in inserted into 
